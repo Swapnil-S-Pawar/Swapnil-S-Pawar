@@ -13,7 +13,7 @@ Motivated and deeply technical Embedded Systems specialist with a focus on cutti
 | **Deep Learning & Perception** | PyTorch, TensorFlow, CNN, Object Detection (YOLO, R-CNN), Computer Vision, OpenCV |
 | **Robotics & Middleware** | **ROS2 (Humble)**, Multi-sensor Integration, Real-time Systems, Embedded C |
 | **Automotive Systems** | **4D Imaging Radar** (Sensrad HUGIN A), Sensor Fusion, ISO 26262, CAN/LIN, AUTOSAR |
-| **Programming & Tools** | Python (Advanced), C++, MATLAB, Simulink, Linux, Git/GitHub |
+| **Programming & Tools** | Python (Advanced), C++, Linux, CVAT, Git/GitHub, MATLAB, Simulink |
 
 ---
 
