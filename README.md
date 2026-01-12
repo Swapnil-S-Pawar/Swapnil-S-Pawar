@@ -1,18 +1,7 @@
 # Swapnil Subhash Pawar 🚗💨
 ### M.Sc. Embedded Systems Candidate | Computer Vision & Generative AI Researcher
 
-Currently focusing on the intersection of **Generative AI** and **Automotive Perception**, specifically developing metric-guided workflows for privacy-safe synthetic data generation.
-
----
-
-## 🚀 Current Project: Driver_Augmentation_Pipeline
-**Metric-Guided Synthetic Data Generation for In-Cabin Monitoring**
-
-* **Objective:** Addressing data scarcity for rare driver distractions (eating, phone usage, etc.).
-* **Tech Stack:** `Python`, `PyTorch`, `Diffusers`, `Stable Diffusion v1.5`, `ControlNet`.
-* **Methodology:** Utilizing **ControlNet (OpenPose)** for structural consistency and **CLIP (ViT-B/32)** for semantic filtering.
-* **Key Result:** Achieved high-fidelity generations with **CLIP similarity scores up to 0.294**.
-* **Status:** 🚧 *Under active development* – Refining image fidelity and evaluation loops.
+M.Sc. Embedded Systems candidate at TU Chemnitz specializing in Computer Vision, 4D Imaging Radar and Generative AI. Proven track record in implementing ROS2 pipelines and multi-sensor fusion , complemented by 3+ years of professional E/E experience in international Agile environments.
 
 ---
 
