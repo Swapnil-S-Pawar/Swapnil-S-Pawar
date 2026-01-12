@@ -1,67 +1,58 @@
-# Swapnil Subhash Pawar
+# Swapnil Subhash Pawar 🚗💨
+### M.Sc. Embedded Systems Candidate | Computer Vision & Generative AI Researcher
 
-## 🚀 M.Sc. Embedded Systems Candidate | Deep Learning & Automotive Perception Specialist
-
-Motivated and deeply technical Embedded Systems specialist with a focus on cutting-edge **Deep Learning-Based Multimodal Perception** for Autonomous Driving. Proven experience in integrating and analyzing complex sensor data (**4D Radar, Camera**) using modern robotics frameworks (**ROS2, Python/PyTorch**).
-
----
-
-### 🌟 Core Expertise
-
-| Category | Skills & Technologies |
-| :--- | :--- |
-| **Deep Learning & Perception** | PyTorch, TensorFlow, CNN, Object Detection (YOLO, R-CNN), Computer Vision, OpenCV |
-| **Robotics & Middleware** | **ROS2 (Humble)**, Multi-sensor Integration, Real-time Systems, Embedded C |
-| **Automotive Systems** | **4D Imaging Radar** (Sensrad HUGIN A), Sensor Fusion, ISO 26262, CAN/LIN, AUTOSAR |
-| **Programming & Tools** | Python (Advanced), C++, Linux, CVAT, Git/GitHub, MATLAB, Simulink |
+Currently focusing on the intersection of **Generative AI** and **Automotive Perception**, specifically developing metric-guided workflows for privacy-safe synthetic data generation.
 
 ---
 
-### 🔬 Research & Professional Highlights
+## 🚀 Current Project: Driver_Augmentation_Pipeline
+**Metric-Guided Synthetic Data Generation for In-Cabin Monitoring**
 
-#### **Master Thesis (Ongoing) - Deep Learning-Based Multimodal Object Detection**
-* **Focus:** Developing a comprehensive object detection framework by fusing **4D Radar and Camera data** to enhance perception accuracy in autonomous systems.
-* **Action:** Implementing advanced **Deep Learning** approaches for feature extraction and fusion, addressing spatial and temporal synchronization challenges.
-* **Tech Stack:** PyTorch, Python, 4D Radar Datasets, ROS2.
-
-#### **Research Internship - 4D Imaging Radar for Automotive Object Detection**
-* **Impact:** Successfully researched and implemented 4D imaging radar (Sensrad HUGIN A) for real-time object detection and classification.
-* **Contribution:** Investigated and evaluated **ROS2 (Humble)** perception pipelines for point cloud processing and multi-object tracking.
-* **Result:** Identified critical radar limitations and proposed **AI-driven mitigation strategies**, documented in a comprehensive technical report.
-
-#### **System Engineer (3 Years) - Functional Safety & Embedded Software**
-* Developed Body Control Module (BCM) functionalities for Ford and Stellantis in strict compliance with **ISO 26262 Functional Safety standards**.
-* Expertise in Model-Based Development (MBD) using **MATLAB, Simulink, and Stateflow** for V&V processes.
+* **Objective:** Addressing data scarcity for rare driver distractions (eating, phone usage, etc.).
+* **Tech Stack:** `Python`, `PyTorch`, `Diffusers`, `Stable Diffusion v1.5`, `ControlNet`.
+* **Methodology:** Utilizing **ControlNet (OpenPose)** for structural consistency and **CLIP (ViT-B/32)** for semantic filtering.
+* **Key Result:** Achieved high-fidelity generations with **CLIP similarity scores up to 0.294**.
+* **Status:** 🚧 *Under active development* – Refining image fidelity and evaluation loops.
 
 ---
 
-### 📚 Featured Projects
+## 🛠️ Technical Toolkit
 
-The repositories below showcase practical application of ML, embedded, and robotics concepts.
+### 🧠 AI & Machine Learning
+* **Generative Models:** Stable Diffusion, ControlNet, CLIP, GANs.
+* **Computer Vision:** YOLO, Instance Segmentation, R-CNN variants, CNN.
+* **Frameworks:** PyTorch, Hugging Face, OpenCV, TensorFlow, Scikit-learn.
 
-#### **1. Hand Gesture Recognition using Machine Learning**
-* **Problem:** Created a reliable, accurate method for real-time human-machine control via hand gestures.
-* **Result:** Designed and implemented a recognition system achieving **93.1% classification accuracy** using a Fine Tree model on EMG sensor data.
-* **Technologies:** Python, MATLAB, Machine Learning, EMG Sensors.
-* [Link to Project Repository]
+### 📡 ADAS & Perception
+* **Sensors:** 4D Imaging Radar (Sensrad HUGIN A), LIDAR, IP/USB Cameras.
+* **Techniques:** Sensor Fusion (Radar-Camera), Multi-Object Tracking, Doppler-based Velocity Estimation.
+* **Middleware:** ROS2 (Humble), CAN, LIN, FlexRay.
 
-#### **2. Vehicle Safety Automation (B.E. Thesis)**
-* **Problem:** Addressed common vehicle safety challenges, including poor visibility and non-optimal tire pressure.
-* **Solution:** Developed and integrated an indirect **Tire Pressure Monitoring System (TPMS)** and a **Headlight Switching System**.
-* **Technologies:** Arduino, Embedded C, Sensor Calibration, PCB Design.
-* [Link to Project Repository]
-
----
-
-### 🎓 Education
-
-* **M.Sc. in Embedded Systems** | Technische Universität Chemnitz, Germany (Oct 2022 - Current)
-* **B.E. in Electronics and Telecommunication Engineering** | Savitribai Phule Pune University, India (2015 - 2019)
+### ⚙️ Software Engineering
+* **Languages:** Python (Expert), C++, MATLAB/Simulink, Embedded C, Bash.
+* **Tools:** Docker, Git/GitHub, CI/CD, CVAT, LaTeX, VS Code.
+* **Standards:** ISO 26262 Functional Safety, Model-Based Development (MBD).
 
 ---
 
-### 📬 Contact & Links
+## 💼 Experience & Research
 
-* **Email:** swapp.pawar4912@gmail.com
-* **LinkedIn:** [Your LinkedIn Profile Link]
-* **My Resume:** [Link to PDF Resume (Optional)]
+* **Research Internship | TU Chemnitz (2024-2025):** Developed ROS2 pipelines for 4D Radar Object Detection and mitigated ghost-object artifacts.
+* **Student Research Assistant | TU Chemnitz (2025):** Focused on LIDAR data annotation and multimodal perception literature research.
+* **E/E System Engineer | Tata Consultancy Services (2019-2022):** Delivered safety-critical BCM features for global OEMs in international Agile environments.
+
+---
+
+## 🎓 Education
+* **M.Sc. Embedded Systems** | Technische Universität Chemnitz (Germany) 
+* **B.E. Electronics & Telecommunication** | Savitribai Phule Pune University (India) 
+
+---
+
+## 📫 Connect with me:
+* **Email:** swapp.pawar4912@gmail.com 
+* **LinkedIn:** [Swapnil Pawar](https://www.linkedin.com/in/swapnil-pawar4912/)
+* **Location:** Chemnitz, Germany 
+
+---
+*"Independent, structured, and goal-oriented researcher eager to develop next-generation driver monitoring systems."* 
